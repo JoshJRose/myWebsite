@@ -55,7 +55,6 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-	color: #f7f7f7;
 }
 
 
@@ -175,7 +174,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .navbar-default .navbar-brand {
@@ -272,7 +271,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/sunset-city.gif');
+    background-image: url('img/headers/deer-sunset.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -334,6 +333,7 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+	color: #f7f7f7;
 }
 
 section h3.section-subheading {
@@ -341,7 +341,6 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
     font-weight: 400;
 }
 
@@ -421,7 +420,7 @@ section h3.section-subheading {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+   
 }
 
 #portfolio * {
@@ -448,7 +447,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #{{site.data.template.color.secondary-dark}};
 }
 
 .timeline>li {
