@@ -55,6 +55,11 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
+	
+h2 {
+	color: #{bg-light-gray};
+}
+
 }
 
 .img-centered {
