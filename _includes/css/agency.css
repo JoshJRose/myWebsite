@@ -357,8 +357,7 @@ section h3.section-subheading {
 #introduction .vid {
 	width: 800px;
 	position: center;
-	border-width: 5px, 5px, 5px, 5px;
-	border-color: #{{ site.data.template.color.muted }};
+	 margin: 0 auto;
 }
 
 .service-heading {
@@ -872,6 +871,11 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+vid{
+	border: 10
+	border-color: #{{ site.data.template.color.muted }};
 }
 
 body {
