@@ -68,7 +68,7 @@ h6 {
 }
 
 .secondary-section-gray {
-	background color: #{{ site.data.template.color.secondary-dark2 }};
+	background-color: #{{ site.data.template.color.secondary-dark2 }};
 }
 
 .bg-darkest-gray {
@@ -355,9 +355,13 @@ section h3.section-subheading {
 }
 
 #introduction .vid {
-	width: 800px;
-	position: center;
-	 margin: 0 auto;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 100%;
+	margin: 0 auto;
+	border: 10
+	border-color: #{{ site.data.template.color.muted }};
 }
 
 .service-heading {
