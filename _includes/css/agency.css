@@ -275,7 +275,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/headers/deer-sunset.gif');
+    background-image: url('img/headers/whale-sunset.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -355,12 +355,12 @@ section h3.section-subheading {
 }
 
 #introduction .vid {
-	position: absolute;
+	position: relative;
 	left: 0;
-	top: 50%;
-	width: 100%;
+	top: 70%;
+	width: 60%;
 	margin: 0 auto;
-	border: 10
+	border: 15
 	border-color: #{{ site.data.template.color.muted }};
 }
 
