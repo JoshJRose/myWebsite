@@ -331,6 +331,7 @@ header .intro-text .intro-heading {
 section {
     padding: 100px 0;
 	background-color: #{{ site.data.template.color.secondary-dark }};
+	border-image: url('img/headers/water-sunset.gif');
 }
 
 section h2.section-heading {
@@ -355,8 +356,9 @@ section h3.section-subheading {
 }
 
 #introduction .vid {
-	margin-bottom: 20px;
-	margin-top: 20px;
+	display: block;
+	margin-bottom: 10px;
+	margin-top: 10px;
 	margin-left: auto
 	margin-right: auto
 	position: relative;
