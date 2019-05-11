@@ -355,11 +355,11 @@ section h3.section-subheading {
 }
 
 #introduction .vid {
-	margin-bottom: 75px;
-	margin-top: 75px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 	position: relative;
 	position: center;
-	width: 60%;
+	width: 80%;
 	border: 15
 	border-color: #{{ site.data.template.color.muted }};
 }
