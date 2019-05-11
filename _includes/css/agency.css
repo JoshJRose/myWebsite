@@ -330,9 +330,8 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
-	/* background-color: #{{ site.data.template.color.secondary-dark }}; */
-	border-image: url('img/headers/water-sunset.gif');
-	border-width: 10px;
+	background-color: #{{ site.data.template.color.secondary-dark }}; 
+	
 }
 
 section h2.section-heading {
@@ -372,6 +371,8 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+	border-image: url('img/headers/water-sunset.gif');
+	border-width: 10px;
 }
 
 #portfolio .portfolio-item {
