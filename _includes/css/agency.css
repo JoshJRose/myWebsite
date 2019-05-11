@@ -371,8 +371,6 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
-	border-image: url('img/headers/water-sunset.gif');
-	border-width: 10px;
 }
 
 #portfolio .portfolio-item {
