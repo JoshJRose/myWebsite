@@ -357,7 +357,7 @@ section h3.section-subheading {
 #introduction .vid {
 	margin-bottom: 75px;
 	margin-top: 75px;
-	position: absolute;
+	position: relative;
 	position: center;
 	width: 60%;
 	border: 15
