@@ -5,7 +5,7 @@ color:
   white-for-bg: ffffff
   black-for-bg: 000000
   secondary-dark: 333
-  secondary-dark2: 444
+  secondary-dark2: 3a3a3a
   muted: 777
 
 # Font Families

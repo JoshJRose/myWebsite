@@ -275,7 +275,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/headers/whale-sunset.gif');
+    background-image: url('img/headers/water-sunset.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -355,7 +355,7 @@ section h3.section-subheading {
 }
 
 #introduction .vid {
-	position: relative;
+	position: absolute;
 	left: 0;
 	top: 70%;
 	width: 60%;
