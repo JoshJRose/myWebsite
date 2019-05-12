@@ -427,7 +427,7 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #{{ site.data.template.color.white-for-bg }};;
+    background-color: #{{ site.data.template.color.white-for-bg }};
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -553,7 +553,7 @@ section h3.section-subheading {
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
-    color: inherit;
+    color: #{{ site.data.template.color.white-for-bg }};;
 }
 
 .timeline .timeline-heading h4.subheading {
