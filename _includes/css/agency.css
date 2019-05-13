@@ -427,12 +427,13 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #{{ site.data.template.color.white-for-bg }};
+    background-color: #{{ site.data.template.color.muted }};
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+	color: #{{ site.data.template.color.white-for-bg}};
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
