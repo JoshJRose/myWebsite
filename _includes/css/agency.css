@@ -15,6 +15,7 @@ body {
 }
 .text-white {
     color: #{{ site.data.template.color.white-for-bg }};
+}
 
 .text-primary {
     color: #{{ site.data.template.color.primary }};
