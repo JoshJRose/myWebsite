@@ -13,6 +13,8 @@ body {
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
+.text-white {
+    color: #{{ site.data.template.color.white-for-bg }};
 
 .text-primary {
     color: #{{ site.data.template.color.primary }};
@@ -882,7 +884,7 @@ img::-moz-selection {
 }
 
 vid{
-	border: 10;
+	border-width: 15px;
 	border-color: #{{ site.data.template.color.muted }};
 }
 
