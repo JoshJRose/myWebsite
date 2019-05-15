@@ -367,7 +367,7 @@ section h3.section-subheading {
 	position: relative;
 	position: center;
 	width: 80%;
-	border: 15;
+	border-width: 15px;
 	border-color: #{{ site.data.template.color.muted }};
 }
 
@@ -803,6 +803,7 @@ ul.social-buttons li a:active {
     border-radius: 0;
     text-align: center;
     background-clip: border-box;
+	background-color: #{{ site.data.template.color.secondary-dark }};
     -webkit-box-shadow: none;
     box-shadow: none;
 }
@@ -810,16 +811,19 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
+	color: #{{ site.data.template.color.white-for-bg }};
 }
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+	
 }
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
+	color: #{{ site.data.template.color.muted }};
 }
 
 .portfolio-modal .modal-content ul.list-inline {
