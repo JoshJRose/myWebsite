@@ -493,7 +493,7 @@ section h3.section-subheading {
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 50px;
     text-align: left;
 }
 
@@ -515,10 +515,10 @@ section h3.section-subheading {
     z-index: 100;
     position: absolute;
     left: 0;
-    width: 80px;
-    height: 80px;
+    width: 400px;
+    height: 200px;
     margin-left: 0;
-    border: 7px solid #{{ site.data.template.color.muted }};;
+    border: 10px solid #{{ site.data.template.color.muted }};;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -530,7 +530,7 @@ section h3.section-subheading {
 
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 50px;
     text-align: left;
 }
 
