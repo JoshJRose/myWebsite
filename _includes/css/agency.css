@@ -367,8 +367,7 @@ section h3.section-subheading {
 	position: relative;
 	position: center;
 	width: 80%;
-	border-width: 15px;
-	border-color: #{{ site.data.template.color.muted }};
+	border: 10px solid #{{ site.data.template.color.muted }};
 }
 
 .service-heading {
@@ -519,10 +518,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
-    text-align: center;
-    color: #fff;
+    border: 7px solid #{{ site.data.template.color.muted }};;
     background-color: #{{ site.data.template.color.primary }};
 }
 
