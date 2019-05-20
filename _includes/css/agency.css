@@ -584,11 +584,10 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image {
-        left: 60%;
+        left: 50%;
         width: 600px;
         height: 300px;
         margin-left: 0px;
-		margin-bottom: 20px;
     }
 	.timeline>li.timeline-inverted>.timeline-image {
         left: 0%;
@@ -616,7 +615,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 0 20px 20px 20 px;
     }
 
     .timeline>li .timeline-image {
