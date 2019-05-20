@@ -495,6 +495,7 @@ section h3.section-subheading {
     width: 100%;
     padding: 0 20px 0 50px;
     text-align: left;
+	margin-bottom: 12px;
 }
 
 .timeline>li .timeline-panel:before {
@@ -532,6 +533,7 @@ section h3.section-subheading {
     float: right;
     padding: 0 20px 0 50px;
     text-align: left;
+	margin-bottom: 12px;
 }
 
 .timeline>li.timeline-inverted>.timeline-panel:before {
