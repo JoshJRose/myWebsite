@@ -584,16 +584,17 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image {
-        left: 10%;
+        left: 60%;
         width: 600px;
         height: 300px;
-        margin-left: -50px;
+        margin-left: 0px;
+		margin-bottom: 20px;
     }
 	.timeline>li.timeline-inverted>.timeline-image {
-        left: 50%;
+        left: 0%;
         width: 600px;
         height: 300px;
-        margin-left: -50px;
+        margin-left: 0px;
     }
 
     .timeline>li .timeline-image h4 {
