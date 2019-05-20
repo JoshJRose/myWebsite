@@ -514,10 +514,10 @@ section h3.section-subheading {
 .timeline>li .timeline-image {
     z-index: 100;
     position: absolute;
-    left: 200;
+    left: 0;
     min-width: 600px;
     min-height: 300px;
-    margin-left: 0;
+    margin-left: 200;
     border: 10px solid #{{ site.data.template.color.muted }};;
     background-color: #{{ site.data.template.color.primary }};
 }
