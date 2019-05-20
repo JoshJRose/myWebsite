@@ -533,7 +533,7 @@ section h3.section-subheading {
     float: right;
     padding: 0 20px 0 50px;
     text-align: left;
-	margin-bottom: 12px;
+	margin-bottom: 20px;
 }
 
 .timeline>li.timeline-inverted>.timeline-panel:before {
@@ -613,7 +613,7 @@ section h3.section-subheading {
 
 @media(min-width:992px) {
     .timeline>li {
-        min-height: 150px;
+        min-height: 130px;
     }
 
     .timeline>li .timeline-panel {
@@ -639,7 +639,7 @@ section h3.section-subheading {
 
 @media(min-width:1200px) {
     .timeline>li {
-        min-height: 170px;
+        min-height: 150px;
     }
 
     .timeline>li .timeline-panel {
