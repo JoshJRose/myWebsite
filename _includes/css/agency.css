@@ -587,14 +587,14 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image {
         left: 50%;
-        width: 300px;
-        height: 100px;
+        min-width: 300px;
+        min-height: 100px;
         margin-left: 0px;
     }
 	.timeline>li.timeline-inverted>.timeline-image {
         left: 0%;
-        width: 300px;
-        height: 100px;
+        min-width: 300px;
+        min-height: 100px;
         margin-left: 0px;
     }
 
