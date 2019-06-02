@@ -858,7 +858,8 @@ ul.social-buttons li a:active {
 
 .container-modal {
 	width: 1000px;
-	position: center;
+	margin: auto;
+	width: 50%;
 	
 }
 
