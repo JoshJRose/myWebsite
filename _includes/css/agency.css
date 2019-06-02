@@ -881,7 +881,7 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
-.container-modal {
+.container .container-modal {
 	width: 1000px;
 	
 	
