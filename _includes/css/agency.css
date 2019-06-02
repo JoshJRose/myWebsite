@@ -585,19 +585,6 @@ section h3.section-subheading {
         text-align: right;
     }
 
-    .timeline>li .timeline-image {
-        left: 50%;
-        min-width: 300px;
-        min-height: 100px;
-        margin-left: 0px;
-    }
-	.timeline>li.timeline-inverted>.timeline-image {
-        left: 0%;
-        min-width: 300px;
-        min-height: 100px;
-        margin-left: 0px;
-    }
-
     .timeline>li .timeline-image h4 {
         margin-top: 16px;
         font-size: 13px;
@@ -620,18 +607,6 @@ section h3.section-subheading {
         padding: 0 20px 20px 20px;
     }
 
-    .timeline>li .timeline-image {
-        width: 300px;
-        height: 100px;
-        margin-left: -50px;
-    }
-
-    .timeline>li .timeline-image h4 {
-        margin-top: 30px;
-        font-size: 18px;
-        line-height: 26px;
-    }
-
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 20px 20px;
     }
@@ -644,16 +619,6 @@ section h3.section-subheading {
 
     .timeline>li .timeline-panel {
         padding: 0 20px 20px 100px;
-    }
-
-    .timeline>li .timeline-image {
-        width: 300px;
-        height: 100px;
-        margin-left: -50px;
-    }
-
-    .timeline>li .timeline-image h4 {
-        margin-top: 40px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
