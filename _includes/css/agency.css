@@ -516,7 +516,7 @@ section h3.section-subheading {
     z-index: 100;
     position: absolute;
     left: 0px;
-    min-width: 300px;
+    min-width: 100px;
     min-height: 100px;
     margin-left: 0;
     border: 10px solid #{{ site.data.template.color.muted }};;
@@ -593,7 +593,7 @@ section h3.section-subheading {
     }
 	.timeline>li.timeline-inverted>.timeline-image {
         left: 0%;
-        width: 300px;
+        width: 100px;
         height: 100px;
         margin-left: 0px;
     }
@@ -621,7 +621,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image {
-        width: 350px;
+        width: 100px;
         height: 100px;
         margin-left: -50px;
     }
@@ -647,7 +647,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-image {
-        width: 400px;
+        width: 100px;
         height: 100px;
         margin-left: -50px;
     }
