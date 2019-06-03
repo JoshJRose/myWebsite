@@ -519,17 +519,17 @@ section h3.section-subheading {
     min-width: 200px;
     min-height: 200px;
     margin-left: 0;
-    border: 10px solid #{{ site.data.template.color.muted }};;
+    border: 10px solid #{{ site.data.template.color.muted }};
     background-color: #{{ site.data.template.color.muted }};
 }
 .timeline>li.timeline-inverted>li .timeline-image {
     z-index: 100;
     position: absolute;
-    left: 50%;
+    right: 0px;
     min-width: 200px;
     min-height: 200px;
     margin-left: 0;
-    border: 10px solid #{{ site.data.template.color.muted }};;
+    border: 10px solid #{{ site.data.template.color.muted }};
     background-color: #{{ site.data.template.color.muted }};
 }
 
@@ -857,7 +857,6 @@ ul.social-buttons li a:active {
 }
 
 .container-modal {
-	width: 1000px;
 	margin: auto;
 	width: 50%;
 	
