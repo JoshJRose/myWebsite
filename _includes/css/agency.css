@@ -529,7 +529,7 @@ section h3.section-subheading {
     min-width: 200px;
     min-height: 200px;
     margin-left: 0;
-    border: 10px solid #{{ site.data.template.color.muted }};
+    border: 10px solid #{{ site.data.template.color.white-for-bg }};
     background-color: #{{ site.data.template.color.muted }};
 }
 
