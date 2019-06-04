@@ -522,7 +522,7 @@ section h3.section-subheading {
     border: 10px solid #{{ site.data.template.color.muted }};
     background-color: #{{ site.data.template.color.muted }};
 }
-.timeline>li.timeline-inverted>li .timeline-image2 {
+.timeline>li.timeline-inverted>li .timeline-image {
     z-index: 100;
     position: absolute;
     right: 500px;
@@ -858,7 +858,7 @@ ul.social-buttons li a:active {
 
 .container-modal {
 	margin: auto;
-	width: 70%;
+	width: 90%;
 	
 }
 
