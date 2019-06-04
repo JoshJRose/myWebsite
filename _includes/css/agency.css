@@ -522,10 +522,10 @@ section h3.section-subheading {
     border: 10px solid #{{ site.data.template.color.muted }};
     background-color: #{{ site.data.template.color.muted }};
 }
-.timeline>li.timeline-inverted>li .timeline-image {
+.timeline>li.timeline-inverted>li .timeline-image2 {
     z-index: 100;
     position: absolute;
-    right: 0px;
+    right: 500px;
     min-width: 200px;
     min-height: 200px;
     margin-left: 0;
