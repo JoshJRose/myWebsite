@@ -525,7 +525,7 @@ section h3.section-subheading {
 .timeline>li.timeline-inverted>li .timeline-image {
     z-index: 100;
     position: absolute;
-    left: 500px;
+    left: 0px;
     min-width: 200px;
     min-height: 200px;
     margin-left: 0;
