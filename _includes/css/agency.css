@@ -523,7 +523,7 @@ section h3.section-subheading {
     background-color: #{{ site.data.template.color.muted }};
 }
 .timeline>li .image-inv {  
-    left: 50px;
+    left: 200px;
 }
 
 
