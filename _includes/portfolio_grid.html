@@ -8,10 +8,9 @@
                 </div>
             </div>
             <div class="row">
-                {% for category in site.categories %}
-            {% for post in site.portfolio %}
+            {% for portfolio in site.categories.portfolio %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal{{ portfolio.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -20,12 +19,11 @@
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-white">{{ post.subtitle }}</p>
+                        <h4>{{ portfolio.title }}</h4>
+                        <p class="text-white">{{ portfolio.subtitle }}</p>
                     </div>
                 </div>
             {% endfor %}
-                 {% endfor %}
             </div>
         </div>
     </section>
