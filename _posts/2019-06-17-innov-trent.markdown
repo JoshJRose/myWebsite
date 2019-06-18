@@ -2,8 +2,10 @@
 title: Innovate Trent
 subtitle: School Organization
 layout: default
+categories: [portfolio]
+tags: [project-management, web-development]
 modal-id: 1
-date: 2018-12-10
+date: 2019-06-17
 description: Innovate Trent was created with students in mind
 img: innovate-trent-logo.png
 thumbnail: innovate-trent-logo.png

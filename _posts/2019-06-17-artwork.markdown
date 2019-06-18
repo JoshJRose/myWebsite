@@ -1,9 +1,11 @@
 ---
-title: Art (testing)
-subtitle: School Organization
+title: ArtWork
+subtitle: I'm really bad at it but its fun
 layout: default
+categories: [about]
+tags: [creative]
 modal-id: 1
-date: 2018-12-10
+date: 2019-06-17
 description: Innovate Trent was created with students in mind
 img: innovate-trent-logo.png
 thumbnail: innovate-trent-logo.png
