@@ -857,6 +857,11 @@ ul.social-buttons li a:active {
 	
 }
 
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
