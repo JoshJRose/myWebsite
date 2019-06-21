@@ -4,8 +4,8 @@ subtitle: I'm really bad at it but its fun
 layout: default
 category: [about]
 tags: [creative]
-modal-id: 2
-date: 2019-06-17
+modal-id: 1
+date: 2019-06-19
 description: I used to be good at drawing but I stopped practicing, probably a foolish decision
 img: artwork-pencils.jpg
 thumbnail: artwork-pencils.jpg

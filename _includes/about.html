@@ -8,8 +8,7 @@
                 </div>
             </div>
             <div class="row">
-                {% for category in site.categories %}
-            {% for post in site.about %}
+            {% for about in site.categories.about %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ about.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -25,7 +24,6 @@
                     </div>
                 </div>
             {% endfor %}
-                 {% endfor %}
             </div>
         </div>
     </section>
