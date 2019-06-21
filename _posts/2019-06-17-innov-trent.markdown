@@ -2,7 +2,7 @@
 title: Innovate Trent
 subtitle: School Organization
 layout: default
-categories: [portfolio]
+category: [portfolio]
 tags: [project-management, web-development]
 modal-id: 1
 date: 2019-06-17

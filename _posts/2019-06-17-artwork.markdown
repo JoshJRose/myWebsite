@@ -2,7 +2,7 @@
 title: ArtWork
 subtitle: Some drawings (disclaimer: they're bad)
 layout: default
-categories: [about]
+category: [about]
 tags: [creative]
 modal-id: 1
 date: 2019-06-17
