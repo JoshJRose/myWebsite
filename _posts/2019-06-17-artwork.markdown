@@ -6,25 +6,14 @@ category: [about]
 tags: [creative]
 modal-id: 2
 date: 2019-06-17
-<<<<<<< HEAD
 description: I used to be good at drawing but I stopped practicing, probably a foolish decision
 img: artwork-pencils.jpg
 thumbnail: artwork-pencils.jpg
 alt: image-alt
 description: {
 <html>
-    <h3>Drawing People </h3>
+<h3>Drawing People </h3>
 <p>I spent most of my life telling myself "I'll never be able to draw people so why start now?"  But part way through 2017 I just said screw it and started messing around with drawing empty bodies in different positions.  They started out ugly but due to my meticulous nature I slowly began improving on proportions and realistic stances.  There's still a looooong waay to go but as time passes, my appretiation for drawing characters has grown, as they can show much more expression and life than anything else I've done before.  One day I'd love to be able to produce half decent 3D faces and hands that don't look like a sick cartoon. </p>
-=======
-description: Innovate Trent was created with students in mind
-img: innovate-trent-logo.png
-thumbnail: innovate-trent-logo.png
-alt: image-alt
-description: {
-<html>
-<h3> The Quest to Unleash Potential </h3>
-<p>Innovate Trent is a school organization aimed to facilitate creative ideas and turn them into real projects.  Here students of Trent University are encouraged to build connections and use our resources to engage in varoius project development initiatives ranging from research proposals to full startup businesses.  This organization was founded by some talanted and ambitious computer science students (including myself) in the winter of 2018, with the intention of taking advantage of the schools recent popularity and rapid expansion. </p>
->>>>>>> parent of 2dc9132... ok I just did a lot for the artwork modal, hopefully it works
 </html>
 }
 ---
